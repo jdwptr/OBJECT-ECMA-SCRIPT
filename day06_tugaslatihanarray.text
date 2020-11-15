@@ -1,0 +1,17 @@
+// tugas untuk latihan :
+//- input str = 'hello dunia'
+//output nya = huruf vokal 'aeiou'
+
+//- input st = 'javascript'
+//output nya = dihitung huruf vokalnya ada brp dr string tsb
+
+//- input str = 'purwadhika'
+//output nya = string, tapi diurutkan => aadhikpruw (berdsrkan a - z)
+
+//- check palindrome
+//- input nya string outputnya boolean true or false
+// 'wow' <=> wow
+// 'katak' <=> katak
+// 'takut' !<=> bukan palindrome
+
+gunakan for loop, while loop, do while 
